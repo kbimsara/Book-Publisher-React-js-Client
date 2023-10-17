@@ -1,0 +1,22 @@
+.login{
+    background-color: rgba(240, 248, 255, 0.263);
+    border: 1px black solid;
+    text-align: left;
+    padding: 25px;
+    margin-top: 50px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+.btn{
+    min-width: 100px;
+}
+a{
+    padding: 0px;
+    margin: 0px;
+}
+h2{
+    text-align: center;
+}
